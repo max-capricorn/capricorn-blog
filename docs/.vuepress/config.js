@@ -44,6 +44,6 @@ module.exports = {
     //   },
     // },
     logo: '/images/capricorn.jpeg',
-    repo: 'https://github.com/max-capricorn/blog'
+    repo: 'https://github.com/max-capricorn/capricorn-blog'
   },
 }
