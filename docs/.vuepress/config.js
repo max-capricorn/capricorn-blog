@@ -3,7 +3,7 @@ module.exports = {
   title: 'capricorn',
   base: '/capricorn-blog/',
   description: '一行琉璃 我的最爱',
-  head: [['link', { rel: 'icon', type: 'image/jpeg', href: '/images/capricorn.jpeg' }]],
+  head: [['link', { rel: 'icon', type: 'image/jpeg', href: '/capricorn-blog/images/capricorn.jpeg' }]],
   // locales: {
   //   '/': {
   //     lang: 'zh-CN',
