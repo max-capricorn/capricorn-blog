@@ -21,6 +21,10 @@ module.exports = {
           {
             text: 'Webpack',
             link: '/note/webpack.html'
+          },
+          {
+            text: 'js',
+            link: '/note/js.html'
           }
         ]
       },
