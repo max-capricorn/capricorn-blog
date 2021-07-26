@@ -3,7 +3,7 @@ module.exports = {
   title: 'capricorn',
   base: '/capricorn-blog/',
   description: '一行琉璃 我的最爱',
-  head: [['link', { rel: 'icon', type: 'image/jpeg', href: '/capricorn-blog/images/capricorn.jpeg' }]],
+  head: [['link', { rel: 'icon', type: 'image/jpeg', href: '/capricorn-blog/images/capricorn.png' }]],
   // locales: {
   //   '/': {
   //     lang: 'zh-CN',
@@ -42,7 +42,7 @@ module.exports = {
     //     selectLanguageName: 'English',
     //   },
     // },
-    logo: '/images/capricorn.jpeg',
+    logo: '/images/capricorn.png',
     repo: 'https://github.com/max-capricorn/capricorn-blog'
   },
 }

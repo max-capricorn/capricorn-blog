@@ -2,7 +2,7 @@
 home: true
 lang: en-US
 navbar: true
-heroImage: /images/capricorn.jpeg
+heroImage: /images/capricorn.png
 actions:
   - text: 开始浏览
     link: /note/webpack.html
