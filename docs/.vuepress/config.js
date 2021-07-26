@@ -17,16 +17,7 @@ module.exports = {
       // NavbarItem
       {
         text: '笔记',
-        children: [
-          {
-            text: 'Webpack',
-            link: '/note/webpack.html'
-          },
-          {
-            text: 'js',
-            link: '/note/js.html'
-          }
-        ]
+        link: '/note/webpack.html',
       },
       { text: '算法', link: 'https://github.com/max-capricorn/leetcode' },
       // { text: '动手练', link: 'https://github.com/seognil-study/learn-by-doing' },
@@ -38,6 +29,10 @@ module.exports = {
         text: 'webpack',
         link: '/note/webpack.html',
       },
+      {
+        text: 'js',
+        link: '/note/js.html'
+      }
     ],
     // locales: {
     //   '/': {
