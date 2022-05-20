@@ -1,17 +1,10 @@
 module.exports = {
   lang: 'en-US',
-  title: 'capricorn',
+  title: '南阳',
   base: '/capricorn-blog/',
-  description: '一行琉璃 我的最爱',
+  description: '南阳',
   head: [['link', { rel: 'icon', type: 'image/jpeg', href: '/capricorn-blog/images/capricorn.png' }]],
-  // locales: {
-  //   '/': {
-  //     lang: 'zh-CN',
-  //   },
-  //   '/zh/': {
-  //     lang: 'en-US',
-  //   },
-  // },
+
   themeConfig: {
     navbar: [
       // NavbarItem
@@ -32,16 +25,20 @@ module.exports = {
       {
         text: 'js',
         link: '/note/js.html'
+      },
+      {
+        text: 'network',
+        link: '/note/network/http.html'
+      },
+      {
+        text: '性能优化',
+        link: '/note/性能优化.html'
+      },
+      {
+        text: 'TS',
+        link: '/note/typescript/section1.html'
       }
     ],
-    // locales: {
-    //   '/': {
-    //     selectLanguageName: '简体中文',
-    //   },
-    //   '/zh/': {
-    //     selectLanguageName: 'English',
-    //   },
-    // },
     logo: '/images/capricorn.png',
     repo: 'https://github.com/max-capricorn/capricorn-blog'
   },
