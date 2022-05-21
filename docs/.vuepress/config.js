@@ -23,8 +23,12 @@ module.exports = {
         link: '/note/webpack.html',
       },
       {
-        text: 'js',
-        link: '/note/js.html'
+        text: 'JS基础',
+        link: '/note/javascript/js.html'
+      },
+      {
+        text: '函数式编程',
+        link: '/note/javascript/函数式编程.html'
       },
       {
         text: 'network',
